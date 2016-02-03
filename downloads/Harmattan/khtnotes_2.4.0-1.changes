@@ -1,0 +1,35 @@
+Maintainer: Benoît HERVIER (khertan) <khertan@khertan.net>
+Format: 1.7
+Source: khtnotes
+Version: 2.4.0-1
+Architecture: armel
+Date: Wed, 12 Sep 2012 11:40:51 +0000
+Distribution: harmattan
+Urgency: low
+Description: 
+ A note taking application for Harmattan devices (n950, n9). KhtNotes provide sync of notes with ownCloud, and permit to previem markdown syntax
+Changes: 
+   1.1: First public release
+   1.2: Fix deletion of remote file in sync, add word wrapping in markdown preview
+   1.3: Fix a nasty bug where a new note can sometime overwrite an existing bug
+   1.4: Better use of harmattan invoker
+   1.5: Avoid double loading of initial list on startup, fix wrong logger call
+        in sync, optimization of startup time And add a search feature
+   1.6: Add Tomboy/Conboy import feature
+   1.7: Improve unicode support (utf-8 and utf-16)
+   1.8: fix authFailure wrong import in sync
+   1.9: fix sync and improve delta sync diff
+   1.10: Fix creation of KhtNotes folder on webdav and
+         avoid lose of notes in case of notes if path is created,
+         improve sync and fix bugs on conflicting update
+   2.0: Formatted notes when markdown syntax is used
+   2.1: Fix the formatting of notes
+   2.2: Fix a bug in sync when a file conflict happen
+   2.3: Avoid useless conflict
+   2.4: Magically merge conflicting notes
+ 
+Changed-By: Benoît HERVIER (khertan) <khertan@khertan.net>
+Files:
+ d371e108babf690dac718ab6452cea65 288956 user/office Khertan Repository khtnotes_2.4.0-1.tar.gz
+ 27a3c06966baa6c6ac8a6c5d1445bc8d 224 user/office Khertan Repository khtnotes_2.4.0-1.dsc
+
