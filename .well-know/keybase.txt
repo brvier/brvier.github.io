@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/khertan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://khertan.net
+  * I am khertan (https://keybase.io/khertan) on keybase.
+  * I have a public key ASB07wfiLSUyRIra57uKo4wBE1uS1IUCrH8dMrJT2a4mAgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012040f103793f352ec300dc15f72be5081e28c707877f3a962a27df5e6244cb0f9b0a",
+      "host": "keybase.io",
+      "kid": "012074ef07e22d2532448adae7bb8aa38c01135b92d48502ac7f1d32b253d9ae26020a",
+      "uid": "acebcbb19c5f2957d71b8769e2f38a19",
+      "username": "khertan"
+    },
+    "merkle_root": {
+      "ctime": 1508927610,
+      "hash": "c10d6a227eb3c272d31c936fd7fbb905a383cb118d38ecc4c0880662562bf0bfd992fc01d903f8204a6735680db7cb2f50db78ead0ce95dd44f9e1e29a119eba",
+      "hash_meta": "218a5c34604465edb0550d3f9707174ff11809b9d8add181c8f824483aca9dc0",
+      "seqno": 1627072
+    },
+    "service": {
+      "hostname": "khertan.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1508927636,
+  "expire_in": 504576000,
+  "prev": "3e9c29e7680dae825fb3165064e6702adf884022ab651fb69abb5d3d5678bbbc",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgdO8H4i0lMkSK2ue7iqOMARNbktSFAqx/HTKyU9muJgIKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDBmMTAzNzkzZjM1MmVjMzAwZGMxNWY3MmJlNTA4MWUyOGM3MDc4NzdmM2E5NjJhMjdkZjVlNjI0NGNiMGY5YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNzRlZjA3ZTIyZDI1MzI0NDhhZGFlN2JiOGFhMzhjMDExMzViOTJkNDg1MDJhYzdmMWQzMmIyNTNkOWFlMjYwMjBhIiwidWlkIjoiYWNlYmNiYjE5YzVmMjk1N2Q3MWI4NzY5ZTJmMzhhMTkiLCJ1c2VybmFtZSI6ImtoZXJ0YW4ifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDg5Mjc2MTAsImhhc2giOiJjMTBkNmEyMjdlYjNjMjcyZDMxYzkzNmZkN2ZiYjkwNWEzODNjYjExOGQzOGVjYzRjMDg4MDY2MjU2MmJmMGJmZDk5MmZjMDFkOTAzZjgyMDRhNjczNTY4MGRiN2NiMmY1MGRiNzhlYWQwY2U5NWRkNDRmOWUxZTI5YTExOWViYSIsImhhc2hfbWV0YSI6IjIxOGE1YzM0NjA0NDY1ZWRiMDU1MGQzZjk3MDcxNzRmZjExODA5YjlkOGFkZDE4MWM4ZjgyNDQ4M2FjYTlkYzAiLCJzZXFubyI6MTYyNzA3Mn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJraGVydGFuLm5ldCIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzQifSwiY3RpbWUiOjE1MDg5Mjc2MzYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiM2U5YzI5ZTc2ODBkYWU4MjVmYjMxNjUwNjRlNjcwMmFkZjg4NDAyMmFiNjUxZmI2OWFiYjVkM2Q1Njc4YmJiYyIsInNlcW5vIjoxMSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEB4U+pRBoT1YfG4bmSUwFN9Du8XERHy8fMBWvKXIRpQLyo0xT/qNqN7dJPEHjex4ovOKwaL7OKrcRvsUL4eGdYGqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQg15MHId80myldqf7PYBLlhajtBNoMeC/y/uT2AavAyHejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/khertan
+
+==================================================================
