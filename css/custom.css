@@ -32,13 +32,12 @@
   position: relative;
 }
 .logo {
-  position: relative;
-  max-width: 60%;
-  margin: 3rem auto -12rem;
+	border-radius: 50%;
+	height: 200px;
+  width: 200px;
+
 }
-.logo + .logo {
-  display: none;
-}
+
 
 /* Values
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
@@ -86,34 +85,6 @@
   margin-bottom: 4rem;
 }
 
-/* Bigger than 550 */
-@media (min-width: 700px) {
-  .section {
-    padding: 12rem 0 11rem;
-  }
-  .hero {
-    padding-bottom: 12rem;
-    text-align: left;
-    height: 165px;
-  }
-  .logo {
-    position: absolute;
-    right: 3rem;
-    max-height: 362px;
-    z-index: 3;
-  }
-  .logo + .logo {
-    top: -6rem;
-    display: block;
-    max-width: 73.8%;
-    right: 0;
-    z-index: 2;
-    max-height: 338px;
-  }
-  .hero-heading {
-    font-size: 2.4rem;
-  }
-}
 
 /* Bigger than 750 */
 @media (min-width: 750px) {
@@ -139,11 +110,9 @@
     margin-right: auto;
   }
   .logo {
-    right: 5rem;
-    max-height: 510px;
-  }
-  .logo + .logo {
-    max-height: 472px;
+ 		border-radius: 50%;
+		max-width: 200px;
+		max-height: 200px;
   }
   .categories {
     padding: 15rem 0 8rem;
@@ -162,12 +131,10 @@
     font-size: 3.0rem;
   }
   .logo {
-    max-height: 615px;
-  }
-  .logo + .logo {
-    top: -14rem;
-    max-height: 570px;
-  }
+		border-radius: 50%;
+    max-width: 200px;
+		max-height: 200px;
+ }
 }
 
 .play {
